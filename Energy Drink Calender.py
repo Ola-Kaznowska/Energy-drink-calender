@@ -1,5 +1,6 @@
 import time
 import random
+  
 
 print("Energy drink calendar")
 print()  
